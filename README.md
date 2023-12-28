@@ -7,10 +7,10 @@
 
 1. **Erklären Sie die unterschiedlichen git Status: untracked, unmodified, modified und staged.**
 
-   - `untracked`: Die Datei wird von Git nicht verfolgt.
-   - `unmodified`: Die Datei wurde dem Repository hinzugefügt, aber seitdem nicht geändert.
-   - `modified`: Die Datei wurde geändert, aber noch nicht für den Commit vorgemerkt.
-   - `staged`: Die Datei wurde für den nächsten Commit vorgemerkt.
+   - `untracked`: 
+   - `unmodified`: 
+   - `modified`: 
+   - `staged`: 
 
 2. **Wozu dient die `.gitignore`-Datei?**
 
