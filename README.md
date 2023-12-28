@@ -14,35 +14,27 @@
 
 2. **Wozu dient die `.gitignore`-Datei?**
 
-   Die `.gitignore`-Datei wird verwendet, um Git mitzuteilen, welche Dateien und Verzeichnisse ignoriert werden sollen und nicht versioniert werden müssen.
 
 3. **Wozu dient der Parameter "a" beim Commit? `git commit -a -m "Add new benchmark"`?**
 
-   Der Parameter "-a" steht für "all" und bewirkt, dass alle Änderungen (sowohl modifizierte als auch gelöschte Dateien) automatisch für den Commit vorgemerkt werden.
 
 4. **Sie möchten die Datei "Main.java" in Ihrem Git-Projekt in "ProjektX.java" umbenennen. Wie können Sie das tun?**
 
-   Verwenden Sie den Befehl `git mv Main.java ProjektX.java` gefolgt von einem Commit.
 
 5. **Wie können Sie die Commit-Historie im Terminal betrachten?**
 
-   Verwenden Sie den Befehl `git log` im Terminal.
 
 6. **Sie haben sich in einer Commit-Nachricht verschrieben und "Added new Path" statt "Added new Patch" geschrieben. Wie können Sie das ändern/rückgängig machen?**
 
-   Verwenden Sie `git commit --amend` gefolgt von der korrigierten Commit-Nachricht.
 
 7. **Erklären Sie, wozu `git restore --staged <file>` und `git restore <file>` verwendet werden können.**
 
-   - `git restore --staged <file>`: Entfernt eine Datei aus dem Staging-Bereich, behält aber die lokalen Änderungen bei.
-   - `git restore <file>`: Verwirft die lokalen Änderungen an einer Datei.
 
 8. **Erklären Sie den Unterschied zwischen `git pull` und `git fetch`.**
 
-   - `git pull`: Holen Sie Änderungen vom Remote-Repository und führen Sie ein Merge durch.
-   - `git fetch`: Holen Sie Änderungen vom Remote-Repository, ohne sie zusammenzuführen. Sie müssen manuell einen Merge durchführen.
 
-# Projektarbeit
+
+# Aufgabe:
 
 1. Clonen Sie das Projekt auf Ihren Computer.
 2. Wechseln Sie in das Git-Verzeichnis.
