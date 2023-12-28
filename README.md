@@ -1,6 +1,6 @@
 # Vorbereitende Aufgaben
 
-1. Laden Sie sich das [git e-Book]("https://git-scm.com/book/de/v2") herunter.
+1. Laden Sie sich das [git e-Book](https://git-scm.com/book/de/v2) herunter.
 2. Lesen Sie das Kapitel "Git Grundlagen" sowie "Git Branching" bis einschließlich "Einfaches Branching".
 
 # Fragen
